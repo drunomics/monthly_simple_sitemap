@@ -1,0 +1,7 @@
+type: module
+name: Monthly Simple Sitemap
+description: 'Adds monthly type to simple XML sitemap.'
+package: SEO
+core: 8.x
+dependencies:
+  - simple_sitemap:simple_sitemap

@@ -1,0 +1,9 @@
+{
+  "name": "drunomics/monthly_simple_sitemap",
+  "type": "drupal-module",
+  "description": "Extension for the simple_sitemap drupal module.",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/simple_sitemap": "^3.0"
+  }
+}

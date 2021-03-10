@@ -1,0 +1,5 @@
+services:
+  monthly_simple_sitemap.route_subscriber:
+    class: '\Drupal\monthly_simple_sitemap\Routing\RouteSubscriber'
+    tags:
+      - { name: event_subscriber }
